@@ -1,6 +1,6 @@
 # 🏥 Healthcare RAG — Research Intelligence
 
-A full-stack RAG (Retrieval-Augmented Generation) system for querying medical research papers using **FastAPI + LangChain + Pinecone + Claude (Anthropic)**.
+A full-stack RAG (Retrieval-Augmented Generation) system for querying medical research papers using **FastAPI + LangChain + Pinecone + Claude**.
 
 ---
 
