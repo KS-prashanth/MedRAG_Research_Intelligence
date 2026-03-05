@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ### 2. Configure Environment
 
-Create a `.env` file:
+Create a `.env` file :
 ```
 ANTHROPIC_API_KEY=sk-ant-...
 PINECONE_API_KEY=...
