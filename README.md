@@ -1,12 +1,12 @@
 # 🏥 Healthcare RAG — Research Intelligence
 
-A full-stack RAG (Retrieval-Augmented Generation) system for querying medical research papers using **FastAPI + LangChain + Pinecone + Claude (Anthropic)**.
+A full-stack RAG (Retrieval-Augmented Generation) system for querying medical research papers using **FastAPI + LangChain + Pinecone + Claude**.
 ---
 
 Access the Website : https://ks-prashanth.github.io/MedRAG_Research_Intelligence/
 
 There is not functioning as git allows only static pages. 
-The subscription for the vector database 'Pipecorn' is free and I payed around $5 to get the Claude API access.
+The subscription for the vector database 'Pinecorn' is free and I payed around $5 to get the Claude API access.
 
 
 ## Architecture
@@ -46,11 +46,7 @@ pip install -r requirements.txt
 
 ### 2. Configure Environment
 
-```bash
-cp .env.example .env
-```
-
-Edit `.env`:
+Create a `.env` file:
 ```
 ANTHROPIC_API_KEY=sk-ant-...
 PINECONE_API_KEY=...
