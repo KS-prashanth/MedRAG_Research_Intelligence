@@ -4,6 +4,7 @@ A full-stack RAG (Retrieval-Augmented Generation) system for querying medical re
 ---
 
 Access the Website : https://ks-prashanth.github.io/MedRAG_Research_Intelligence/
+
 There is not functioning as git allows only static pages. 
 The subscription for the vector database 'Pipecorn' is free and I payed around $5 to get the Claude API access.
 
