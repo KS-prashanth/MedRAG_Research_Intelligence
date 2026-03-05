@@ -41,10 +41,7 @@ pip install -r requirements.txt
 
 ### 2. Configure Environment
 
-```bash
-cp .env.example .env
-```
-
+Create a .env file 
 Edit `.env`:
 ```
 ANTHROPIC_API_KEY=sk-ant-...
